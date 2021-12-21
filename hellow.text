@@ -15,7 +15,7 @@
 	git remote -v 				     查看当前所有远程地址别名
 	git remote add 别名  远程地址                 为远程地址起别名
 	git push 别名   分支名                      将本地文件推送到网络远程库
-	 
+	git pull 别名   分支名                      将远程库拉取到本地文件 
 	 
 	 
 	 
