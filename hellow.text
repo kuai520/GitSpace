@@ -7,6 +7,9 @@
 	git commit -m "对版本的注释" 文件名          将文件添加到本地库
 	git reflog                                   查看版本
 	git reset --hard  版本号                     穿梭版本
+	git branch 分支名                            添加分支
+	git branch -v                                查看所有分支
+	git checkout 分支名                          要切换的分支
 
 	 
 	 
