@@ -12,10 +12,11 @@
 	git checkout 分支名                          要切换的分支
         git merge  指定哪个分支                      要将哪个分支添加到当前分支
         当分支冲突时提交不要带文件名
-	git remote -v 				     查看当前所有远程地址别名
-	git remote add 别名  远程地址                 为远程地址起别名
+	git remote -v 				    查看当前所有远程地址别名
+	git remote add 别名  远程地址               为远程地址起别名
 	git push 别名   分支名                      将本地文件推送到网络远程库
-	git pull 别名   分支名                      将远程库拉取到本地文件 
+	git pull 别名   分支名                      将远程库拉取到本地文件
+        git clont 远程地址                          将远程地址克隆到本地	
 	 
 	 
 	 
