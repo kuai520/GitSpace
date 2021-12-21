@@ -12,7 +12,8 @@
 	git checkout 分支名                          要切换的分支
         git merge  指定哪个分支                      要将哪个分支添加到当前分支
         当分支冲突时提交不要带文件名
-	 
+	git remote -v 				     查看当前所有远程地址别名
+	git remote add 别名  远程地址                为远程地址起别名
 	 
 	 
 	 
