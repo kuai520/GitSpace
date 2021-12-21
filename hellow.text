@@ -10,8 +10,7 @@
 	git branch 分支名                            添加分支
 	git branch -v                                查看所有分支
 	git checkout 分支名                          要切换的分支
-	git merge   分支名                           填写要将哪个分支合并到本分支
-
+        当分支冲突时提交不要带文件名
 	 
 	 
 	 
